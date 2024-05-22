@@ -36,6 +36,9 @@ minima:
       }
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: G-VXZRJJYSBJ
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
